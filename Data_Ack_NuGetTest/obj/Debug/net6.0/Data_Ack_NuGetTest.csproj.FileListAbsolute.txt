@@ -1,0 +1,12 @@
+C:\GITHUB\Data_Ack_NuGetTest\Data_Ack_NuGetTest\bin\Debug\net6.0\Data_Ack_NuGetTest.deps.json
+C:\GITHUB\Data_Ack_NuGetTest\Data_Ack_NuGetTest\bin\Debug\net6.0\Data_Ack_NuGetTest.dll
+C:\GITHUB\Data_Ack_NuGetTest\Data_Ack_NuGetTest\bin\Debug\net6.0\Data_Ack_NuGetTest.pdb
+C:\GITHUB\Data_Ack_NuGetTest\Data_Ack_NuGetTest\obj\Debug\net6.0\Data_Ack_NuGetTest.csproj.AssemblyReference.cache
+C:\GITHUB\Data_Ack_NuGetTest\Data_Ack_NuGetTest\obj\Debug\net6.0\Data_Ack_NuGetTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\GITHUB\Data_Ack_NuGetTest\Data_Ack_NuGetTest\obj\Debug\net6.0\Data_Ack_NuGetTest.AssemblyInfoInputs.cache
+C:\GITHUB\Data_Ack_NuGetTest\Data_Ack_NuGetTest\obj\Debug\net6.0\Data_Ack_NuGetTest.AssemblyInfo.cs
+C:\GITHUB\Data_Ack_NuGetTest\Data_Ack_NuGetTest\obj\Debug\net6.0\Data_Ack_NuGetTest.csproj.CoreCompileInputs.cache
+C:\GITHUB\Data_Ack_NuGetTest\Data_Ack_NuGetTest\obj\Debug\net6.0\Data_Ack_NuGetTest.dll
+C:\GITHUB\Data_Ack_NuGetTest\Data_Ack_NuGetTest\obj\Debug\net6.0\refint\Data_Ack_NuGetTest.dll
+C:\GITHUB\Data_Ack_NuGetTest\Data_Ack_NuGetTest\obj\Debug\net6.0\Data_Ack_NuGetTest.pdb
+C:\GITHUB\Data_Ack_NuGetTest\Data_Ack_NuGetTest\obj\Debug\net6.0\ref\Data_Ack_NuGetTest.dll
