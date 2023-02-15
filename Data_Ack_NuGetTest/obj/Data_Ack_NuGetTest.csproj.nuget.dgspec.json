@@ -8,7 +8,7 @@
       "version": "1.0.0",
       "restore": {
         "projectUniqueName": "C:\\GITHUB\\Data_Ack_NuGetTest\\Data_Ack_NuGetTest\\Data_Ack_NuGetTest.csproj",
-        "projectName": "Data_Ack_NuGetTest.Data_Ack_NuGetTest",
+        "projectName": "Skyline.DataMiner.Data_Ack_NuGetTest",
         "projectPath": "C:\\GITHUB\\Data_Ack_NuGetTest\\Data_Ack_NuGetTest\\Data_Ack_NuGetTest.csproj",
         "packagesPath": "c:\\pfpr",
         "outputPath": "C:\\GITHUB\\Data_Ack_NuGetTest\\Data_Ack_NuGetTest\\obj\\",

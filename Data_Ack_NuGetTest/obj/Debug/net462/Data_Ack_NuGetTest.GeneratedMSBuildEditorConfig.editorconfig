@@ -1,3 +1,3 @@
 is_global = true
-build_property.RootNamespace = Data_Ack_NuGetTest.Data_Ack_NuGetTest
+build_property.RootNamespace = Skyline.DataMiner.Data_Ack_NuGetTest
 build_property.ProjectDir = C:\GITHUB\Data_Ack_NuGetTest\Data_Ack_NuGetTest\
