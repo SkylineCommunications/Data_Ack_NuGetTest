@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "4+LtyvaeEJrlOFSyCpQdxaQOmRaQfUt9Na+n0nrUwBwJqjLUKUn7jSFlidIxmZPCTfBf34BhOu6lntOKOvC3zQ==",
+  "success": true,
+  "projectFilePath": "C:\\GITHUB\\Data_Ack_NuGetTest\\Data_Ack_NuGetTest2\\Data_Ack_NuGetTest2.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://devcore3:81/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+C:\GITHUB\Data_Ack_NuGetTest\Data_Ack_NuGetTest\bin\Debug\net462\Skyline.DataMiner.Data_Ack_NuGetTest.dll
+C:\GITHUB\Data_Ack_NuGetTest\Data_Ack_NuGetTest\bin\Debug\net462\Skyline.DataMiner.Data_Ack_NuGetTest.pdb
+C:\GITHUB\Data_Ack_NuGetTest\Data_Ack_NuGetTest\bin\Debug\net462\Skyline.DataMiner.Data_Ack_NuGetTest.xml
+C:\GITHUB\Data_Ack_NuGetTest\Data_Ack_NuGetTest\obj\Debug\net462\Data_Ack_NuGetTest.csproj.AssemblyReference.cache
+C:\GITHUB\Data_Ack_NuGetTest\Data_Ack_NuGetTest\obj\Debug\net462\Data_Ack_NuGetTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\GITHUB\Data_Ack_NuGetTest\Data_Ack_NuGetTest\obj\Debug\net462\Data_Ack_NuGetTest.AssemblyInfoInputs.cache
+C:\GITHUB\Data_Ack_NuGetTest\Data_Ack_NuGetTest\obj\Debug\net462\Data_Ack_NuGetTest.AssemblyInfo.cs
+C:\GITHUB\Data_Ack_NuGetTest\Data_Ack_NuGetTest\obj\Debug\net462\Data_Ack_NuGetTest.csproj.CoreCompileInputs.cache
+C:\GITHUB\Data_Ack_NuGetTest\Data_Ack_NuGetTest\obj\Debug\net462\Skyline.DataMiner.Data_Ack_NuGetTest.dll
+C:\GITHUB\Data_Ack_NuGetTest\Data_Ack_NuGetTest\obj\Debug\net462\Skyline.DataMiner.Data_Ack_NuGetTest.xml
+C:\GITHUB\Data_Ack_NuGetTest\Data_Ack_NuGetTest\obj\Debug\net462\Skyline.DataMiner.Data_Ack_NuGetTest.pdb

@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Skyline.DataMiner.Data_Ack_NuGetTest</name>
+    </assembly>
+    <members>
+        <member name="M:Data_Ack_NuGetTest.DataAckTest.JustATest">
+            <summary>
+            A test method.
+            </summary>
+            <returns>Returns <see cref="T:System.Boolean"/> as true.</returns>
+        </member>
+    </members>
+</doc>
