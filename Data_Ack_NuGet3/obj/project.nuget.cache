@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "1nxOv/psaX3xtW4gJMMu1vHe60kLQaA/YmGC43Tp8BrwWZZ4zK+X83AOxtXS2QoNlrPCSlxylzMvxk+O0mPp8w==",
+  "success": true,
+  "projectFilePath": "C:\\GITHUB\\Data_Ack_NuGetTest\\Data_Ack_NuGet3\\Utils.Data_Ack_NuGet3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://devcore3:81/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

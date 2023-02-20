@@ -5,7 +5,7 @@ VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Data_Ack_NuGetTest", "Data_Ack_NuGetTest\Data_Ack_NuGetTest.csproj", "{B4C17486-37FE-4CD9-A898-1F2BCF42B91B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data_Ack_NuGetTest2", "Data_Ack_NuGetTest2\Data_Ack_NuGetTest2.csproj", "{A5CE1415-D077-46A2-A996-02C32E900402}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Data_Ack_NuGetTest2", "Data_Ack_NuGetTest2\Data_Ack_NuGetTest2.csproj", "{A5CE1415-D077-46A2-A996-02C32E900402}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
