@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Skyline.DataMiner.Utils.Data_Ack_NuGetTest</id>
+    <version>1.0.1</version>
+    <authors>SkylineCommunications</authors>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <license type="file">LICENSE.txt</license>
+    <licenseUrl>https://aka.ms/deprecateLicenseUrl</licenseUrl>
+    <icon>Icon.png</icon>
+    <readme>README.md</readme>
+    <projectUrl>https://skyline.be/</projectUrl>
+    <description>This is a simple test package used for testing github workflows.</description>
+    <tags>Skyline DataMiner</tags>
+    <repository type="git" url="https://github.com/SkylineCommunications/Data_Ack_NuGetTest" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\GITHUB\Data_Ack_NuGetTest\Data_Ack_NuGetTest1\bin\Debug\netstandard2.0\Skyline.DataMiner.Utils.Data_Ack_NuGetTest.dll" target="lib\netstandard2.0\Skyline.DataMiner.Utils.Data_Ack_NuGetTest.dll" />
+    <file src="C:\GITHUB\Data_Ack_NuGetTest\Data_Ack_NuGetTest1\bin\Debug\netstandard2.0\Skyline.DataMiner.Utils.Data_Ack_NuGetTest.xml" target="lib\netstandard2.0\Skyline.DataMiner.Utils.Data_Ack_NuGetTest.xml" />
+    <file src="C:\GITHUB\Data_Ack_NuGetTest\Data_Ack_NuGetTest1\README.md" target="README.md" />
+    <file src="C:\GITHUB\Data_Ack_NuGetTest\Data_Ack_NuGetTest1\LICENSE.txt" target="LICENSE.txt" />
+    <file src="C:\GITHUB\Data_Ack_NuGetTest\Data_Ack_NuGetTest1\nuget\Icon.png" target="Icon.png" />
+  </files>
+</package>

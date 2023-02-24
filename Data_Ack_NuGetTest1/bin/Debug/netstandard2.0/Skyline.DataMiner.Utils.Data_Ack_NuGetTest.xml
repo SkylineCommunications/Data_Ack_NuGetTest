@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Skyline.DataMiner.Utils.Data_Ack_NuGetTest</name>
+    </assembly>
+    <members>
+        <member name="M:Skyline.DataMiner.Utils.Data_Ack_NuGetTest.TestingClass.Test">
+            <summary>
+            Simple test method.
+            </summary>
+            <returns> hello world</returns>
+        </member>
+    </members>
+</doc>
